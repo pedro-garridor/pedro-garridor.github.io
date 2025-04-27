@@ -11,35 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biomedicine, Universidad de Murcia, 20125
+* M.S. in Bioinformatics, Universidad de Murcia & Universidad Politécnica de Cartagena, 2020
+* B.S. in Biochemistry, Universidad de Murcia, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2024: Bioinformatician
+  * **[Centro de Investigación Biomédica en Red (CIBERER) - Rare Diseases Spanish Research Network](https://www.ciberer.es/)**
+  * Bioinformatician & PhD student. Researcher on Hematology, Oncology, Rare Diseases and long-reads sequencing systems.
+  * Researcher on multiple public projects, including development of cohort analysis using longitudinal & survival ML models.
+  * Analysis of omics data (genome & transcriptome) from NGS shor reads and Nanopore long-reads systems.
+  * @ [Centro Regional de Hemodonación, CRH](https://www.murciasalud.es/web/centro-regional-de-hemodonacion).
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Development of *in-silico* pipelines for bioinformatics
+  * Snakemake
+  * Nextflow
+* Sequencing data analysis
+  * Next-gen data
+    * QC
+    * Variants analysis
+  * Long reads: Nanopore
+    * QC
+    * Variants analysis
+    * Epigenetics
+    * Epitranscriptomics
+    * Discovery of novel transcripts
+* Cohort-level analysis of clinical data
+  * Patients description
+  * Survival analysis
+  * Longitudinal data modeling
+* Languages
+  * Python
+  * R
+  * LaTeX
+  * Java
+  * C
+* Containerization
+  * Docker
+  * Singularity
+* Other technologies
+  * SLURM
+  * git
+  * bash/zsh
 
 Publications
 ======
@@ -53,12 +69,10 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Service and membership
 ======
-* Currently signed in to 43 different slack teams
+* [Sociedad Española de Bioinformática y Biología Computacional (SEBiBC)](https://sebibc.es/)
+* [International Society for Computational Biology](https://www.iscb.org/)
+* [Sociedad Española de Trombosis y Hemostasia (SETH)](https://seth.es/)
+* [International Society on Thrombosis and Haemostasis](https://www.isth.org/)
