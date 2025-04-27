@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biomedicine, Universidad de Murcia, 20125
+* Ph.D in Biomedicine, Universidad de Murcia, 2025
 * M.S. in Bioinformatics, Universidad de Murcia & Universidad Politécnica de Cartagena, 2020
 * B.S. in Biochemistry, Universidad de Murcia, 2019
 
