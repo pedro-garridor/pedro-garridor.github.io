@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-3447-248X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Pedro-Garrido-Rodriguez" # URL
   scopus           : "http://www.scopus.com/inward/authorDetails.url?authorID=57429621600&partnerID=MN8TOARS" # URL
 
