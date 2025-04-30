@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF version of my CV is available [here](../files/CV.pdf).
+
 Education
 ======
 * Ph.D in Biomedicine, Universidad de Murcia, 2025
@@ -22,7 +24,6 @@ Work experience
   * Bioinformatician & PhD student. Researcher on Hematology, Oncology, Rare Diseases and long-reads sequencing systems.
   * Researcher on multiple public projects, including development of cohort analysis using longitudinal & survival ML models.
   * Analysis of omics data (genome & transcriptome) from NGS shor reads and Nanopore long-reads systems.
-  * @ [Centro Regional de Hemodonación, CRH](https://www.murciasalud.es/web/centro-regional-de-hemodonacion).
   
 Skills
 ======
@@ -57,22 +58,25 @@ Skills
   * git
   * bash/zsh
 
+
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+-->
   
 Service and membership
 ======
 * [Sociedad Española de Bioinformática y Biología Computacional (SEBiBC)](https://sebibc.es/)
-* [International Society for Computational Biology](https://www.iscb.org/)
+* [International Society for Computational Biology (ISCB)](https://www.iscb.org/)
 * [Sociedad Española de Trombosis y Hemostasia (SETH)](https://seth.es/)
-* [International Society on Thrombosis and Haemostasis](https://www.isth.org/)
+* [International Society on Thrombosis and Haemostasis (ISTH)](https://www.isth.org/)
