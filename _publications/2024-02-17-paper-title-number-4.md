@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 4"
-collection: publications
-category: conferences
+collection: # publications
+category: # conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Conference Papers are to be filled'
 date: 2020-01-01
