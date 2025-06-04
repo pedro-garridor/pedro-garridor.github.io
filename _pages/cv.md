@@ -79,4 +79,3 @@ Service and membership
 * [Sociedad Española de Bioinformática y Biología Computacional (SEBiBC)](https://sebibc.es/)
 * [International Society for Computational Biology (ISCB)](https://www.iscb.org/)
 * [Sociedad Española de Trombosis y Hemostasia (SETH)](https://seth.es/)
-* [International Society on Thrombosis and Haemostasis (ISTH)](https://www.isth.org/)
