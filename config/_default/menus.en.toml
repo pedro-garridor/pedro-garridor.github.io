@@ -11,8 +11,13 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Publications"
-  pageRef = "publications"
+  name = "CV"
+  pageRef = "CV"
+  weight = 10
+
+[[main]]
+  name = "Papers"
+  pageRef = "papers"
   weight = 10
 
 [[main]]

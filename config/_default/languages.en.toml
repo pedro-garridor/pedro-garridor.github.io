@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Pedro Garrido Rodríguez"
+title = "pedro-garridor"
 # copyright = "Copy, _right?_ :thinking_face:"
 colorScheme = "congo"
 
@@ -14,8 +14,8 @@ colorScheme = "congo"
   # description = "My awesome website"
 
 [params.author]
-  name = "Pedro Garrido-Rodríguez"
-  # image = "img/author.png"
+  name = "pedro-garridor"
+  image = "img/author.png"
   headline = "Bioinformatician - PhD in Biomedicine"
   bio = "Bioinformatician & Data Scientist"
   links = [
