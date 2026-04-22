@@ -16,8 +16,8 @@ colorScheme = "congo"
 [params.author]
   name = "pedro-garridor"
   image = "img/author.png"
-  headline = "Bioinformatician - PhD in Biomedicine"
-  bio = "Bioinformatician & Data Scientist"
+  headline = "Data Analyst & Software Engineer"
+  bio = "Bioinformatician - PhD in Biomedicine"
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
@@ -62,7 +62,7 @@ colorScheme = "congo"
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
-    { x-twitter = "https://twitter.com/pedro_garridor" },
+  #  { x-twitter = "https://twitter.com/pedro_garridor" },
   #   { youtube = "https://youtube.com/username" },
   #   { xing = "https://xing.com/profile/username" },
   ]
