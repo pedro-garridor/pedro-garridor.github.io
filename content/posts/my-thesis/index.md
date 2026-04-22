@@ -8,9 +8,11 @@ showDateUpdated: true
 
 Hi! I recently defended my PhD dissertation on bioinformatics and biomedicine. It is written in Spanish, but I thought it would be interesting to share an English abstact as well. If you want to know more about it, don't hesitate to ask!
 
-{{< button href="https://hdl.handle.net/10201/152160" >}}
+URL: [https://hdl.handle.net/10201/152160](https://hdl.handle.net/10201/152160)
+
+<!-- {{< button href="https://hdl.handle.net/10201/152160" >}}
 Link to my Thesis
-{{</button>}}
+{{</button>}} -->
 
 `P. Garrido-Rodríguez, “Aplicación de la bioinformática en la descripción y resolución de patologías hematológicas y mecanismos biológicos relacionados,” Ph.D dissertation, Universidad de Murcia, Spain, 2025.`
 
