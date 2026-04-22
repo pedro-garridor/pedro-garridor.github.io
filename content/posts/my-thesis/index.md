@@ -10,10 +10,6 @@ Hi! I recently defended my PhD dissertation on bioinformatics and biomedicine. I
 
 URL: [https://hdl.handle.net/10201/152160](https://hdl.handle.net/10201/152160)
 
-<!-- {{< button href="https://hdl.handle.net/10201/152160" >}}
-Link to my Thesis
-{{</button>}} -->
-
 `P. Garrido-Rodríguez, “Aplicación de la bioinformática en la descripción y resolución de patologías hematológicas y mecanismos biológicos relacionados,” Ph.D dissertation, Universidad de Murcia, Spain, 2025.`
 
 *The high throughput systems for omics data generation has forced lately the implementation of automated analysis systems allowing the management and interpretability of huge amounts of information.*
