@@ -3,9 +3,9 @@ label = "English"
 direction = "ltr"
 weight = 1
 
-title = "pedro-garridor"
+title = "Pedro | Data & Software Engineer"
 # copyright = "Copy, _right?_ :thinking_face:"
-colorScheme = "congo"
+colorScheme = "ocean" # "congo"
 
 [params]
   dateFormat = "2 January 2006"
@@ -14,10 +14,10 @@ colorScheme = "congo"
   # description = "My awesome website"
 
 [params.author]
-  name = "pedro-garridor"
+  name = "Pedro"
   image = "img/author.png"
-  headline = "Data Analyst & Software Engineer"
-  bio = "Bioinformatician - PhD in Biomedicine"
+  headline = "Data & Software Engineer"
+  bio = "Building reproducible data pipelines and scalable workflows using Python, SQL, Docker and HPC systems."
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
@@ -34,7 +34,7 @@ colorScheme = "congo"
     { github = "https://github.com/pedro-garridor" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
-    { google-scholar = "https://scholar.google.com/citations?user=TcpIRXMAAAAJ" },
+  #   { google-scholar = "https://scholar.google.com/citations?user=TcpIRXMAAAAJ" },
   #   { hashnode = "https://username.hashnode.dev" },
   #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
@@ -50,7 +50,7 @@ colorScheme = "congo"
   #   { patreon = "https://www.patreon.com/username" },
   #   { pinterest = "https://pinterest.com/username" },
   #   { reddit = "https://reddit.com/user/username" },
-    { researchgate = "https://www.researchgate.net/profile/Pedro-Garrido-Rodriguez" },
+  #   { researchgate = "https://www.researchgate.net/profile/Pedro-Garrido-Rodriguez" },
   #   { slack = "https://workspace.url/team/userid" },
   #   { snapchat = "https://snapchat.com/add/username" },
   #   { soundcloud = "https://soundcloud.com/username" },

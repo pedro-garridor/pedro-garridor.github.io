@@ -11,14 +11,29 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "CV"
-  pageRef = "CV"
+  name = "Home"
+  pageRef = "_index"
   weight = 10
 
 [[main]]
-  name = "Papers"
-  pageRef = "papers"
-  weight = 10
+  name = "Experience"
+  pageRef = "experience"
+  weight = 20
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 30
+
+[[main]]
+  name = "Tech Stack"
+  pageRef = "tech-stack"
+  weight = 40
+
+[[main]]
+  name = "Research"
+  pageRef = "research"
+  weight = 50
 
 # [[main]]
 #   name = "Blog"
@@ -30,10 +45,10 @@
 #   pageRef = "categories"
 #   weight = 30
 
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 40
+# [[main]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 40
 
 [[main]]
   identifier = "search"

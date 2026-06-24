@@ -1,5 +1,1 @@
-Hi, welcome to my homepage!
-
-My name is Pedro. I'm a data analyst, software engineer and bioinformatician with experience in hematology, oncology, machine learning and rare diseases research, as well as human genetics using both long and short reads.
-
-This webpage is an overview of my work as researcher and developer, so feel free to take a look around :)
+Software and data engineer with experience building and maintaining reproducible data processing pipelines for large-scale datasets. Experienced in Python, R, Git and Linux, with strong background in workflow orchestration (Nextflow, Snakemake) and containerized environments (Docker, Apptainer).

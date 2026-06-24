@@ -1,12 +1,12 @@
 ---
-title: "PhD Thesis"
+title: "Ph.D. Thesis"
 date: 2025-06-10
 lastmod: 2025-06-17
 tags: ["thesis"]
 showDateUpdated: true
 ---
 
-Hi! I recently defended my PhD dissertation on bioinformatics and biomedicine. It is written in Spanish, but I thought it would be interesting to share an English abstact as well. If you want to know more about it, don't hesitate to ask!
+I recently defended my PhD dissertation on bioinformatics and biomedicine. It is written in Spanish, but I thought it would be interesting to share an English abstact as well. If you want to know more about it, don't hesitate to ask!
 
 URL: [https://hdl.handle.net/10201/152160](https://hdl.handle.net/10201/152160)
 
